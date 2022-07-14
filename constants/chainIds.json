@@ -1,0 +1,7 @@
+{
+  "ethereum": 1,
+  "avalanche": 6,
+
+  "rinkeby":          10001,
+  "fuji":             10006
+}
